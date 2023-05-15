@@ -1,5 +1,5 @@
 {
-  "include": ["src/**/*.tsx", "src/**/*.ts"],
+  "include": ["src/**/*.tsx", "src/**/*.ts", "typings/glsl.d.ts"],
   "exclude": ["node_modules"],
   "compilerOptions": {
     "strict": true,
